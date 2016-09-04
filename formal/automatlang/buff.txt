@@ -1,0 +1,22 @@
+
+    \begin{array}{c|c|c}
+      
+
+      0 & a & 1 \\
+      0 & b & 6 \\
+      \hline
+      1 & a & 2 \\
+      \hline
+      6 & a & 7 \\
+      \hline
+      2 & a & 3,4 \\
+      \hline
+      3,4 & a & 2,5 \\
+      3,4 & b & 2 \\
+      \hline
+      2,5 & a & 3,4 \\
+      2,5 & b & 4 \\
+      \hline
+      4 & a & 2,5 \\
+
+    \end{array}

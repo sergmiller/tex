@@ -1,0 +1,1139 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.7)  5 SEP 2016 01:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**C_p:C_v.tex
+(./C_p:C_v.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks14
+\uc@combtoksb=\toks15
+\uc@temptokena=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russianb 2015/05/01 1.3g Russian support for the Babel system
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 69.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 111.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen104
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/05/11 v1.16 mathematical typesetting tools
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen113
+\calc@Bdimen=\dimen114
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count103
+\calc@Cskip=\skip48
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count104
+\l_MT_multwidth_dim=\dimen115
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen116
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen117
+\l_MT_above_intertext_sep=\dimen118
+\l_MT_below_intertext_sep=\dimen119
+\l_MT_above_shortintertext_sep=\dimen120
+\l_MT_below_shortintertext_sep=\dimen121
+)
+(./C_p:C_v.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `C_p:C_v.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen123
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks26
+))) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
+File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
+)
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...�- вым числом $k$, длиной
+                                                   волны $\lambda$ и �...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46     Важной
+                        характеристикой звуковых в...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...�ной характеристикой
+                                                   звуковых волн...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...�нными и упругими свой
+                                                  ствами среды. �...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...�х волн в безграничной
+                                                   однородной с...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...�раничной однородной
+                                                   среде определ...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ...мпера- туры в звуковой
+                                                   волне происхо...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...�ое термодинамической
+                                                   систе- мой, р�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...�амической систе- мой
+                                                  , расходуется �...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...�уется на изменение её
+                                                   внутренней э...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...енение её внутренней
+                                                   энергии $\Delta U$...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...гия является функцией
+                                                   состояния сис...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...тояния системы, для её
+                                                   элементарног�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...ан весь промежуточный
+                                                   процесс, поск�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...и конечного состояний
+                                                  ).
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...оршнем. На поршень дей
+                                                  ствует сила $F$ ...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 ...� малое изменение объё
+                                                  ма газа.
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...а тепла $\delta Q$, поглощё
+                                                  нного $\nu$ моля�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...�ром процессе, который
+                                                   обозначим ин- ...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...емпературы на $dT$, делё
+                                                  нное на число �...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...�ённое на число молей
+                                                   $\nu$, называетс...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...gg)_x$ вычисляется с учё
+                                                  том процесса $x...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...�, при постоянном объё
+                                                  ме $(𝑥 = 𝑉 )$, п�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-468.def
+File: uni-468.def 2013/05/13 UCS: Unicode data U+1D400..U+1D4FF
+)
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 лоё
+              мкостью при постоянном объёме(Де...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 ...ю при постоянном объё
+                                                  ме(Дейсвитель�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+! Undefined control sequence.
+<recently read> \detta 
+                       
+l.112 ...я $\delta A = 0$ а значит $\detta
+                                                   U = dQ$).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 ...�ость идеального газа.}
+                                                  
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...� только кинетической
+                                                   энергией дви...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...нетической энергией
+                                                   дви- жения мол...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...�за не зависит от объё
+                                                  ма: $\bigg(\frac{\delta ...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+[2]
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 ...нальности внутренней
+                                                   энер- гии газа...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 ...�зличны- ми формами её
+                                                   движения: пос�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 ...ным. В статистической
+                                                   физике доказы...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 ...�лы1, согласно которой
+                                                   на каждую сте�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 151.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 151.
+
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
+51.
+
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
+51.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-34.def
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+)
+Overfull \hbox (12.55505pt too wide) in paragraph at lines 151--153
+[]\T2A/cmr/m/n/12 ��� $\OML/cmm/m/it/12 R \OT1/cmr/m/n/12 = 8\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/n/12 31[]\OML/cmm/m/it/12 =[]$ \T2A/cmr/m/n/12 ^^V ���-���-����-���
+ ��-��-��� ��-���-��-���, $\OML/cmm/m/it/12 N[] \OT1/cmr/m/n/12 = 6\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 02^^A1023[][]$
+ []
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 ...абатический процесс.}
+                                                  
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160     Квазистатический
+                                             процесс, проис- х�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 ...�оцесс, проис- ходящий
+                                                   без теплообме...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 ...�ообмена с окружающей
+                                                   средой, назы�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 ... с окружающей средой
+                                                  , называется а�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 ... $\delta Q = 0$ для $\nu$ молей
+                                                   идеального га...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+[3]
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...ространение звуковой
+                                                   волны в газе п...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...�, не успевает произой
+                                                  ти. Используя �...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...� идеального газа, най
+                                                  дём скорость ...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...еального газа, найдё
+                                                  м скорость зву...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ...орость звука по общей
+                                                   формуле (3).
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.184 ...сона $PV^{\gamma} = const$ объё
+                                                  м на плот- ност...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 ...полагается известной
+                                                  ).
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 ...�ложением всех отражё
+                                                  нных волн и, во...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+! Undefined control sequence.
+\u-default-916 #1->\textDelta 
+                              
+l.211     Δ
+            𝑃 (𝑥,𝑡) = 2𝑃0 cos(𝜔𝑡) sin(𝑘𝑥).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
+File: uni-471.def 2013/05/13 UCS: Unicode data U+1D700..U+1D7FF
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
+File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
+File: uni-471.def 2013/05/13 UCS: Unicode data U+1D700..U+1D7FF
+)
+
+! Package ucs Error: Unknown Unicode character 120596 = U+1D714,
+(ucs)                possibly declared in uni-471.def.
+(ucs)                Type H to see if it is available with options.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211     Δ𝑃 (𝑥,𝑡) = 2𝑃0 cos(𝜔
+                                              𝑡) sin(𝑘𝑥).
+Unicode character 120596 = U+1D714:
+MATHEMATICAL ITALIC SMALL OMEGA
+Character available with following options:
+   autogenerated.
+Enter I!<RET> to define the glyph.
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...�а звуковых колебаний
+                                                   при этом резк�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214     При неизменной
+                                        частоте 𝑓 звуковог...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...- тельно, и неизменной
+                                                   длине звуково...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...�нной длине звуковой
+                                                   волны 𝜆) можн...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
+File: uninames.dat 2013/05/13 UCS: Unicode character names, compressed
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
+File: uni-471.def 2013/05/13 UCS: Unicode data U+1D700..U+1D7FF
+)
+
+! Package ucs Error: Unknown Unicode character 120582 = U+1D706,
+(ucs)                possibly declared in uni-471.def.
+(ucs)                Type H to see if it is available with options.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...ине звуковой волны 𝜆
+                                                  ) можно из- мен�...
+
+Unicode character 120582 = U+1D706:
+MATHEMATICAL ITALIC SMALL LAMDA
+Character available with following options:
+   autogenerated.
+Enter I!<RET> to define the glyph.
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...уба. Длина раздвижной
+                                                   трубы постепе...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+
+! Package ucs Error: Please activate option 'combine'.
+
+See the ucs package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...� амплитуды колебаний
+                                                  . Для последов�...
+
+Composed characters can only be rendered correctly, when the option 'combine' i
+s activated
+
+[4] <stand.png, id=31, 639.38875pt x 367.3725pt>
+File: stand.png Graphic file (type png)
+ <use stand.png>
+Package pdftex.def Info: stand.png used on input line 225.
+(pdftex.def)             Requested size: 252.94499pt x 145.33195pt.
+ [5 <./stand.png>] (./C_p:C_v.aux) ) 
+Here is how much of TeX's memory you used:
+ 7365 strings out of 493089
+ 93898 string characters out of 6134843
+ 148232 words of memory out of 5000000
+ 10732 multiletter control sequences out of 15000+600000
+ 19358 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,7n,29p,893b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/e
+nc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super
+/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
+frm0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfr
+m1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1
+440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm207
+4.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.
+pfb>
+Output written on C_p:C_v.pdf (5 pages, 267527 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

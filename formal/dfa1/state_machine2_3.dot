@@ -1,0 +1,11 @@
+digraph state_machine {
+    node [shape = circle] q_1;
+    node [shape = circle] q_2;
+    node [shape = circle] q_3;
+    node [shape = doublecircle] q_f;
+    q_1 -> q_f [label = "a_1"];
+    q_2 -> q_f [label = "a_2"];
+    q_f -> q_3 [label = "a_3"];
+    q_f -> q_f [label = "a_4"];
+    q_f -> q_f [label = "a_5"];
+}
