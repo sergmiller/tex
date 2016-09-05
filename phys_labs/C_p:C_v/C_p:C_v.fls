@@ -135,8 +135,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam1
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
 INPUT /Users/sergmiller/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT /Users/sergmiller/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
@@ -144,6 +142,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-32.def
 INPUT /Users/sergmiller/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
 OUTPUT C_p:C_v.pdf
 INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
+INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-3.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-468.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-468.def
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
@@ -162,10 +162,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uninames.dat
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-471.def
 INPUT stand.png
 INPUT ./stand.png
 INPUT ./stand.png
