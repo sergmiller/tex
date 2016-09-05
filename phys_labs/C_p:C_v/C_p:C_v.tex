@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass[10pt]{article}
 % Эта строка — комментарий, она не будет показана в выходном файле
 \usepackage{ucs}
 \usepackage[utf8x]{inputenc} % Включаем поддержку UTF8
@@ -21,7 +21,7 @@
     Определение $C_p/C_v$ по скорости звука в газе    
 }
 \date{\today}
-\author{Миллер Сергей, Руденко Ирина 494}
+\author{Миллер Сергей 494}
 
 \begin{document}
     \maketitle
@@ -70,7 +70,7 @@
 
     \textbf{ Работа газа.}
 
-    Рассмотрим расширение газа в цилиндре, закрытом подвижным поршнем. На поршень действует сила $F$ , равная про- изведению давления газа $F$ на площадь поршня $S$. При смещении на малую величину $dx$ газ совершает работу
+    Рассмотрим расширение газа в цилиндре, закрытом подвижным поршнем. На поршень действует сила $F$ , равная произведению давления газа $F$ на площадь поршня $S$. При смещении на малую величину $dx$ газ совершает работу
     \begin{equation}
         \delta A = F dx = P S dx = P dV.
     \end{equation}
@@ -133,13 +133,13 @@
         \gamma = \frac{C_p}{C_v}
     \end{equation}
 
-    В нешироком диапазоне температур $C_v$ можно считать постоянной, что соответствует пропорциональности внутренней энер- гии газа его температуре:
+    В нешироком диапазоне температур $C_v$ можно считать постоянной, что соответствует пропорциональности внутренней энергии газа его температуре:
 
     \begin{equation}
         U = \nu \int C_v dT = \nu C_v T
     \end{equation}
 
-    Энергия, переданная молекуле, распределяется между различны- ми формами её движения: поступательным, вращательным и ко- лебательным. В статистической физике доказывается теорема о равномерном распределении энергии между степенями свободы молекулы1, согласно которой на каждую степень свободы прихо- дится в среднем энергия, равная $\frac{RT}{2 N_A}$
+    Энергия, переданная молекуле, распределяется между различными формами её движения: поступательным, вращательным и колебательным. В статистической физике доказывается теорема о равномерном распределении энергии между степенями свободы молекулы, согласно которой на каждую степень свободы приходится в среднем энергия, равная $\frac{RT}{2 N_A}$
 
     При $i$ степенях свободы, внутренняя энергия $U$ одного моля такого газа и величина $C_v$ равны соответственно
 
@@ -156,8 +156,8 @@
 
     \textbf{Адиабатический процесс.}
 
-    Квазистатический процесс, проис- ходящий без теплообмена с окружающей средой, называется адиа- батическим.
-    Из первого начала термодинамики (6) при $\delta Q = 0$ для $\nu$ молей идеального газа, у которого $dU = \nu C_v dT$, получим:
+    Квазистатический процесс, происходящий без теплообмена с окружающей средой, называется адиабатическим.
+    Из первого начала термодинамики (6) при $\delta Q = 0$ для $\nu$ молей идеального газа, у которого $dU = \nu C_v dT$, получим:
 
     \begin{equation}
         \nu C_v dt + P dV = 0,
@@ -230,7 +230,7 @@
     \begin{enumerate}
     \item 
          Будем медленно удлинять трубу при постоянной частоте и измерять смещение трубы от начального состояния при последовательных резонансах.
-    Так как ожидаемая зависимость длины трубы от номера резонанса $\Delta(n)$ линейная, то построим аппроксимирующие по методу наименьших квадратов прямые вида $\Delta = kn + b$ для каждой измеряемой частоты, а также произведем оценку ошибки(для углового коэффицента $k$):
+    Так как ожидаемая зависимость длины трубы от номера резонанса $\Delta(n)$ линейная, то для случаев $n > 2$ (иначе оценим непосредственно) построим аппроксимирующие по методу наименьших квадратов прямые вида $\Delta = kn + b$ для каждой измеряемой частоты, а также произведем оценку ошибки(для углового коэффицента $k$):
 
     \begin{equation}
         \hat{k} = \frac{\overline{xy} - \bar{x}\bar{y}}{\overline{x^2} - \bar{x}^2} ;\quad \hat{\sigma}_k = \frac{2}{\sqrt{n}}\sqrt{\frac{\overline{y^2} - \bar{y}^2}{\overline{x^2} - \bar{x}^2} - \hat{k}^2}
@@ -242,34 +242,37 @@
 
     Тогда получим искомое значение показателя адиабаты: $\hat{\gamma} = \frac{4\mu \hat{k}^2 f^2}{RT}$ 
 
-    А погрешность $\hat{\sigma}_\gamma$ определим из формулы для погрешности функции многих переменных:
+    А погрешности $\sigma_\gamma, \sigma_{v_\text{зв.}}$ определим из формулы для погрешности функции многих переменных:
 
     \begin{equation}
-        \bigg(\frac{\hat{\sigma}_\gamma}{\hat{\gamma}}\bigg) ^ 2 =    2^2 \bigg(\frac{\hat{\sigma}_k}{\hat{k}}\bigg) ^ 2 + 2^2 \bigg(\frac{\sigma_f}{f}\bigg) ^ 2 + \bigg(\frac{\sigma_T}{T}\bigg) ^ 2
+        \bigg(\frac{\sigma_\gamma}{\gamma}\bigg) ^ 2 =    2^2 \bigg(\frac{\hat{\sigma}_k}{\hat{k}}\bigg) ^ 2 + 2^2 \bigg(\frac{\sigma_f}{f}\bigg) ^ 2 + \bigg(\frac{\sigma_T}{T}\bigg) ^ 2 
+    \end{equation}
+    \begin{equation}
+        \bigg(\frac{\sigma_{v_\text{зв.}}}{v_\text{зв.}}\bigg) ^ 2 =    \bigg(\frac{\hat{\sigma}_k}{\hat{k}}\bigg) ^ 2 + \bigg(\frac{\sigma_f}{f}\bigg) ^ 2
     \end{equation}
 
 
     При измерениях:
 
-    \begin{equation}
-        \sigma_T = 0.1 K, \quad \frac{\sigma_f}{f} = 0.04 
-    \end{equation}
-
+        $\sigma_T = 0.1 K$ (половина цены деления термометра), $ \frac{\sigma_f}{f} = 0.01 $ (шкала ЗГ показывала 2 значащие цифры после запятой в измеряемом диапазоне)
+        Поскольку измерения при движении трубы в обе стороны давали результаты отличающиеся не более чем на 1 мм то для расчетов использовались усредненные измерения каждого резонанса в обе стороны. 
+  
     \begin{itemize}
         \item $f = 1.13$ KГц,$ \quad T = 21.6^o C$
 
         \begin{center}
-                    \begin{tabular}{|c|c|c|c|c|c|c|}
+                    \begin{tabular}{|c|c|c|}
                             \hline 
-                                $n$ & 1 & 2 & 3 & 4 & 5 \\
+                                $n$ & 1 & 2 \\
                             \hline
-                                $\Delta_n$ [мм]& 75&104&130&167&220\\
+                                $\Delta_n$ [мм]& 75&220\\
                             \hline
                     \end{tabular}
         \end{center}
 
+        (т. к. $n = 2$ в рассчете $\hat{\sigma}_k$ использована удвоенная приборная погрешность для линейки)
         \begin{equation}
-            \hat{k} = 35.3 ,\quad \hat{\sigma}_k = 4.8, \quad \gamma = 0.08, \quad \sigma_\gamma = 0.02, \quad \varepsilon_\gamma \approx 28\%
+            \hat{k} = 145.0 , \quad \hat{\sigma}_k = 5.8, \quad v_\text{зв.} = 327.7, \quad \sigma_{v_\text{зв.}} = 9.6 , \quad \varepsilon_{v_\text{зв.}}  \approx 4\% \quad \gamma = 1.27, \quad \sigma_\gamma = 0.13, \quad \varepsilon_\gamma \approx 10\%
         \end{equation}
 
         \begin{center} 
@@ -289,7 +292,7 @@
         \end{center}
 
         \begin{equation}
-            \hat{k} = 65.2 ,\quad \hat{\sigma}_k = 0.7, \quad \gamma = 1.41, \quad \sigma_\gamma = 0.11, \quad \varepsilon_\gamma \approx 7.8\%
+            \hat{k} = 65.2 ,\quad \hat{\sigma}_k = 0.8, \quad v_\text{зв.} = 344.3, \quad \sigma_{v_\text{зв.}} = 5.2 \quad \varepsilon_{v_\text{зв.}} \approx 1.5\% \quad \gamma = 1.41, \quad \sigma_\gamma = 0.09, \quad \varepsilon_\gamma \approx 6.5\%
         \end{equation}
 
         \begin{center} 
@@ -310,7 +313,7 @@
         \end{center}
 
         \begin{equation}
-            \hat{k} = 50.6 ,\quad \hat{\sigma}_k = 0.3, \quad \gamma = 1.41, \quad \sigma_\gamma = 0.11, \quad \varepsilon_\gamma \approx 7.8\%
+            \hat{k} = 50.6 ,\quad \hat{\sigma}_k = 0.3, \quad v_\text{зв.} = 344.1, \quad \sigma_{v_\text{зв.}} = 4.0 \quad \varepsilon_{v_\text{зв.}} \approx 1.2\% \quad \gamma = 1.41, \quad \sigma_\gamma = 0.09, \quad \varepsilon_\gamma \approx 6.1\%
         \end{equation}
 
         \begin{center} 
@@ -330,7 +333,7 @@
         \end{center}
 
         \begin{equation}
-            \hat{k} = 40.3 ,\quad \hat{\sigma}_k = 0.3, \quad \gamma = 1.42, \quad \sigma_\gamma = 0.12, \quad \varepsilon_\gamma \approx 8.1\%
+            \hat{k} = 40.3 ,\quad \hat{\sigma}_k = 0.3, \quad v_\text{зв.} = 345.9, \quad \sigma_{v_\text{зв.}} = 4.1 \quad \varepsilon_{v_\text{зв.}} \approx 1.2\% \quad \gamma = 1.42, \quad \sigma_\gamma = 0.09, \quad \varepsilon_\gamma \approx 6.1\%
         \end{equation}
 
         \begin{center} 
@@ -350,7 +353,7 @@
         \end{center}
 
         \begin{equation}
-            \hat{k} = 33.8 ,\quad \hat{\sigma}_k = 0.2, \quad \gamma = 1.42, \quad \sigma_\gamma = 0.11, \quad \varepsilon_\gamma \approx 8.1\%
+            \hat{k} = 33.8 ,\quad \hat{\sigma}_k = 0.2, \quad v_\text{зв.} = 345.3, \quad \sigma_{v_\text{зв.}} = 4.1 \quad \varepsilon_{v_\text{зв.}} \approx 1.2\% \quad \gamma = 1.42, \quad \sigma_\gamma = 0.09, \quad \varepsilon_\gamma \approx 6.1\%
         \end{equation}
 
         \begin{center} 
@@ -361,20 +364,30 @@
 
     \end{enumerate}
 
-    Видно, что серия экспериментов при частоте $f = 1.13\text{КГц}$ скорее всего ошибочна(надо подогнать получше)
+    Видно, что серия экспериментов при частоте $f = 1.13\text{КГц}$ имеет очень большую погрешность и малую достоверность, поэтому при расчете среднего значения $\gamma$ эту серию экспериментов лучше не учитывать.
 
-    а усредняя результат по остальным сериям, получим:
-
-    \begin{equation}
-        \gamma_\text{ex.} = 1.41 \pm 0.11 
-    \end{equation}
-
-    учитывая что воздух состоит примерно на 98\% из двухатомного газа, то имеем $i = 5$ степеней свободы и в теории для него примерно верно:
+    Усредняя результат по остальным независимым сериям, получим:
 
     \begin{equation}
-        \gamma_\text{th.} \approx \frac{i+2}{i} = 1.4
+        v_\text{зв.} = 344.9 \quad \sigma_{v_\text{зв.}} = sqrt(\frac{\sigma_{{v_\text{зв.}}_2}^2 + \dots \sigma_{{v_\text{зв.}}_5}^2}{4}) = 4.4 
+    \end{equation}
+    \begin{equation}
+        \gamma_\text{ex.} = 1.41 \quad \sigma_\gamma = sqrt(\frac{\sigma_{\gamma_2}^2 + \dots \sigma_{\gamma_5}^2}{4}) = 0.09 
     \end{equation}
 
-    то есть эксперимент просто божественно согласуется с теорией
+    в итоге получим эксперементальные значения:
+
+    \begin{equation}
+        v_\text{зв.ex.} = 344.9 \pm 4.4 \text{м/с}, \quad \gamma_{ex.} = 1.41 \pm 0.09
+    \end{equation}
+
+    используя физические таблицы для скорости звука в воздухе при $T ~ 20^o C$ и
+    учитывая что воздух состоит примерно на 98\% из двухатомного газа($i = 5$ степеней свободы) то в теории для него примерно верно:
+
+    \begin{equation}
+         v_\text{зв.th.} \approx 343.1 \text{м/с} \quad \gamma_\text{th.} \approx \frac{i+2}{i} = 1.4
+    \end{equation}
+
+    Полученные значения с учетом погрешности позволяют говорить о применимости модели идеального газа для физических рассчетов в небольшом диапазоне температур.
 
 \end{document}

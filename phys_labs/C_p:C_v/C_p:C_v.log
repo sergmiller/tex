@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.7)  5 SEP 2016 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.7)  5 SEP 2016 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -313,19 +313,6 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 ...оршнем. На поршень дей
-                                                  ствует сила $F$ ...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
 l.77 ...� малое изменение объё
                                                   ма газа.
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -370,60 +357,7 @@ l.114 ...�за не зависит от объё
 Composed characters can only be rendered correctly, when the option 'combine' i
 s activated
 
-[2]
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136 ...нальности внутренней
-                                                   энер- гии газа...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 ...�зличны- ми формами её
-                                                   движения: пос�...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 ...ным. В статистической
-                                                   физике доказы...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.142 ...�лы1, согласно которой
-                                                   на каждую сте�...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
+[2] (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 150.
@@ -432,7 +366,7 @@ LaTeX Font Info:    Try loading font information for OMS+cmr on input line 150.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
 
 
@@ -446,13 +380,6 @@ LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 1
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-34.def
 File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
 )
-Overfull \hbox (12.55505pt too wide) in paragraph at lines 150--152
-[]\T2A/cmr/m/n/12 ��� $\OML/cmm/m/it/12 R \OT1/cmr/m/n/12 = 8\OML/cmm/m/it/12 ;
- \OT1/cmr/m/n/12 31[]\OML/cmm/m/it/12 =[]$ \T2A/cmr/m/n/12 ^^V ���-���-����-���
- ��-��-��� ��-���-��-���, $\OML/cmm/m/it/12 N[] \OT1/cmr/m/n/12 = 6\OML/cmm/m/i
-t/12 ; \OT1/cmr/m/n/12 02^^A1023[][]$
- []
-
 
 ! Package ucs Error: Please activate option 'combine'.
 
@@ -462,71 +389,6 @@ Type  H <return>  for immediate help.
                                                   
 l.157 ...абатический процесс.}
                                                   
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159     Квазистатический
-                                             процесс, проис- х�...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ...�оцесс, проис- ходящий
-                                                   без теплообме...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ...�ообмена с окружающей
-                                                   средой, назы�...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.159 ... с окружающей средой
-                                                  , называется а�...
-
-Composed characters can only be rendered correctly, when the option 'combine' i
-s activated
-
-
-! Package ucs Error: Please activate option 'combine'.
-
-See the ucs package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.160 ... $\delta Q = 0$ для $\nu$ молей
-                                                   идеального га...
-
 Composed characters can only be rendered correctly, when the option 'combine' i
 s activated
 
@@ -568,67 +430,119 @@ Character available with following options:
    autogenerated.
 Enter I!<RET> to define the glyph.
 
-[4] <stand.png, id=31, 639.38875pt x 367.3725pt>
+<stand.png, id=28, 639.38875pt x 367.3725pt>
 File: stand.png Graphic file (type png)
  <use stand.png>
 Package pdftex.def Info: stand.png used on input line 225.
 (pdftex.def)             Requested size: 252.94499pt x 145.33195pt.
- [5 <./stand.png>] <1ex.png, id=38, 644.4075pt x 397.485pt>
+ [4 <./stand.png>]
+<1ex.png, id=37, 746.79pt x 432.61626pt>
 File: 1ex.png Graphic file (type png)
  <use 1ex.png>
-Package pdftex.def Info: 1ex.png used on input line 276.
-(pdftex.def)             Requested size: 361.34999pt x 222.8994pt.
+Package pdftex.def Info: 1ex.png used on input line 279.
+(pdftex.def)             Requested size: 361.34999pt x 209.33014pt.
 
-<2ex.png, id=39, 639.38875pt x 409.53pt>
+Overfull \hbox (1.05876pt too wide) detected at line 296
+[] \OT1/cmr/m/n/10 = 65\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ;  [
+] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ;  v[]
+ \OT1/cmr/m/n/10 = 344\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;  ^^
+[[] \OT1/cmr/m/n/10 = 5\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2 \OML/cmm/m/it/10 "[]
+ \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5% \OM
+L/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 41\OML/c
+mm/m/it/10 ;  ^^[[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 09\OML
+/cmm/m/it/10 ;  "[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 5%
+ []
+
+<2ex.png, id=38, 730.73pt x 440.64626pt>
 File: 2ex.png Graphic file (type png)
  <use 2ex.png>
-Package pdftex.def Info: 2ex.png used on input line 296.
-(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
- [6 <./1ex.png> <./2ex.png>]
+Package pdftex.def Info: 2ex.png used on input line 299.
+(pdftex.def)             Requested size: 361.34999pt x 217.90204pt.
+ [5 <./1ex.png>]
+Overfull \hbox (1.05876pt too wide) detected at line 317
+[] \OT1/cmr/m/n/10 = 50\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ;  [
+] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;  v[]
+ \OT1/cmr/m/n/10 = 344\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ;  ^^
+[[] \OT1/cmr/m/n/10 = 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0 \OML/cmm/m/it/10 "[]
+ \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2% \OM
+L/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 41\OML/c
+mm/m/it/10 ;  ^^[[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 09\OML
+/cmm/m/it/10 ;  "[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 1%
+ []
+
 File: 2ex.png Graphic file (type png)
- <use 2ex.png>
-Package pdftex.def Info: 2ex.png used on input line 317.
-(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
+<use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 320.
+(pdftex.def)             Requested size: 361.34999pt x 217.90204pt.
+
+Overfull \hbox (1.05876pt too wide) detected at line 337
+[] \OT1/cmr/m/n/10 = 40\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;  [
+] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;  v[]
+ \OT1/cmr/m/n/10 = 345\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9\OML/cmm/m/it/10 ;  ^^
+[[] \OT1/cmr/m/n/10 = 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1 \OML/cmm/m/it/10 "[]
+ \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2% \OM
+L/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 42\OML/c
+mm/m/it/10 ;  ^^[[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 09\OML
+/cmm/m/it/10 ;  "[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 1%
+ []
+
 File: 2ex.png Graphic file (type png)
- <use 2ex.png>
-Package pdftex.def Info: 2ex.png used on input line 337.
-(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
- [7]
+<use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 340.
+(pdftex.def)             Requested size: 361.34999pt x 217.90204pt.
+ [6 <./2ex.png>]
+Overfull \hbox (1.05876pt too wide) detected at line 357
+[] \OT1/cmr/m/n/10 = 33\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ;  [
+] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ;  v[]
+ \OT1/cmr/m/n/10 = 345\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ;  ^^
+[[] \OT1/cmr/m/n/10 = 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1 \OML/cmm/m/it/10 "[]
+ \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2% \OM
+L/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 42\OML/c
+mm/m/it/10 ;  ^^[[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 09\OML
+/cmm/m/it/10 ;  "[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT
+1/cmr/m/n/10 1%
+ []
+
 File: 2ex.png Graphic file (type png)
- <use 2ex.png>
-Package pdftex.def Info: 2ex.png used on input line 357.
-(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
- [8] (./C_p:C_v.aux) ) 
+<use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 360.
+(pdftex.def)             Requested size: 361.34999pt x 217.90204pt.
+ [7] [8] (./C_p:C_v.aux) ) 
 Here is how much of TeX's memory you used:
- 7366 strings out of 493089
- 93678 string characters out of 6134843
- 148045 words of memory out of 5000000
- 10735 multiletter control sequences out of 15000+600000
- 19358 words of font info for 60 fonts, out of 8000000 for 9000
+ 7364 strings out of 493089
+ 93622 string characters out of 6134843
+ 148071 words of memory out of 5000000
+ 10732 multiletter control sequences out of 15000+600000
+ 18448 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,7n,29p,912b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-su
-per/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on C_p:C_v.pdf (8 pages, 416476 bytes).
+ 51i,7n,30p,912b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/c
+m-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1000.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0500.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on C_p:C_v.pdf (8 pages, 447517 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
