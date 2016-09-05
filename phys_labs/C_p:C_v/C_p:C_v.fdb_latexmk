@@ -1,5 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1473026910 "C_p:C_v.tex" "C_p:C_v.pdf" "C_p:C_v" 1473026911
+["pdflatex"] 1473088927 "C_p:C_v.tex" "C_p:C_v.pdf" "C_p:C_v" 1473088928
+  "./1ex.png" 1473086360 106467 d88d7e1e0bd68948da421a579319e5c9 ""
+  "./2ex.png" 1473086783 105832 b159bcaf06e14c3a7e4c36242e29f56b ""
   "./stand.png" 1473016934 108448 5a41852d42ea5fdde9ceeddcbf71b6cd ""
   "/Users/sergmiller/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1441651747 3308 eee81981029f67083258db36df06e523 ""
   "/Users/sergmiller/Library/texlive/2015/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1441730349 3248 7c0b9d76a2cd84ed06764a4c6eea5de4 ""
@@ -105,10 +107,12 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1441651283 3849858 6cff5fc64c64a86b4470a01486986f9f ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "C_p:C_v.aux" 1473026911 186 d84bf62585b18c5b92804f4b0a9189f3 ""
-  "C_p:C_v.tex" 1473026909 19971 d19d7651aa12af6506e5884af33840ad ""
+  "1ex.png" 1473086360 106467 d88d7e1e0bd68948da421a579319e5c9 ""
+  "2ex.png" 1473086783 105832 b159bcaf06e14c3a7e4c36242e29f56b ""
+  "C_p:C_v.aux" 1473088928 186 d84bf62585b18c5b92804f4b0a9189f3 ""
+  "C_p:C_v.tex" 1473088927 24005 9993bd884a1b11d2c996fc51a6a69949 ""
   "stand.png" 1473016934 108448 5a41852d42ea5fdde9ceeddcbf71b6cd ""
   (generated)
+  "C_p:C_v.log"
   "C_p:C_v.pdf"
   "C_p:C_v.aux"
-  "C_p:C_v.log"

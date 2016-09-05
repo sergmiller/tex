@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.7)  5 SEP 2016 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.9.7)  5 SEP 2016 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -952,7 +952,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206 ...�ложением всех отражё
+l.207 ...�ложением всех отражё
                                                   нных волн и, во...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -961,7 +961,7 @@ s activated
 ! Undefined control sequence.
 \u-default-916 #1->\textDelta 
                               
-l.211     Δ
+l.212     Δ
             𝑃 (𝑥,𝑡) = 2𝑃0 cos(𝜔𝑡) sin(𝑘𝑥).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -987,7 +987,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.211     Δ𝑃 (𝑥,𝑡) = 2𝑃0 cos(𝜔
+l.212     Δ𝑃 (𝑥,𝑡) = 2𝑃0 cos(𝜔
                                               𝑡) sin(𝑘𝑥).
 Unicode character 120596 = U+1D714:
 MATHEMATICAL ITALIC SMALL OMEGA
@@ -1002,7 +1002,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.212 ...�а звуковых колебаний
+l.213 ...�а звуковых колебаний
                                                    при этом резк�...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1015,7 +1015,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214     При неизменной
+l.215     При неизменной
                                         частоте 𝑓 звуковог...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1028,7 +1028,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...- тельно, и неизменной
+l.215 ...- тельно, и неизменной
                                                    длине звуково...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1041,7 +1041,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...�нной длине звуковой
+l.215 ...�нной длине звуковой
                                                    волны 𝜆) можн...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1062,7 +1062,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...ине звуковой волны 𝜆
+l.215 ...ине звуковой волны 𝜆
                                                   ) можно из- мен�...
 
 Unicode character 120582 = U+1D706:
@@ -1078,7 +1078,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...уба. Длина раздвижной
+l.215 ...уба. Длина раздвижной
                                                    трубы постепе...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1091,7 +1091,7 @@ See the ucs package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 ...� амплитуды колебаний
+l.215 ...� амплитуды колебаний
                                                   . Для последов�...
 
 Composed characters can only be rendered correctly, when the option 'combine' i
@@ -1100,40 +1100,64 @@ s activated
 [4] <stand.png, id=31, 639.38875pt x 367.3725pt>
 File: stand.png Graphic file (type png)
  <use stand.png>
-Package pdftex.def Info: stand.png used on input line 225.
+Package pdftex.def Info: stand.png used on input line 226.
 (pdftex.def)             Requested size: 252.94499pt x 145.33195pt.
- [5 <./stand.png>] (./C_p:C_v.aux) ) 
+ [5 <./stand.png>] <1ex.png, id=38, 644.4075pt x 397.485pt>
+File: 1ex.png Graphic file (type png)
+ <use 1ex.png>
+Package pdftex.def Info: 1ex.png used on input line 277.
+(pdftex.def)             Requested size: 361.34999pt x 222.8994pt.
+
+<2ex.png, id=39, 639.38875pt x 409.53pt>
+File: 2ex.png Graphic file (type png)
+ <use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 297.
+(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
+ [6 <./1ex.png> <./2ex.png>]
+File: 2ex.png Graphic file (type png)
+ <use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 318.
+(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
+File: 2ex.png Graphic file (type png)
+ <use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 338.
+(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
+ [7]
+File: 2ex.png Graphic file (type png)
+ <use 2ex.png>
+Package pdftex.def Info: 2ex.png used on input line 358.
+(pdftex.def)             Requested size: 361.34999pt x 231.44736pt.
+ [8] (./C_p:C_v.aux) ) 
 Here is how much of TeX's memory you used:
- 7365 strings out of 493089
- 93898 string characters out of 6134843
- 148232 words of memory out of 5000000
- 10732 multiletter control sequences out of 15000+600000
+ 7375 strings out of 493089
+ 94006 string characters out of 6134843
+ 148182 words of memory out of 5000000
+ 10740 multiletter control sequences out of 15000+600000
  19358 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,7n,29p,893b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/e
-nc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super
-/sfbx1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/s
-frm0800.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfr
-m1200.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1
-440.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm207
-4.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.
-pfb>
-Output written on C_p:C_v.pdf (5 pages, 267527 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-t2a.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on C_p:C_v.pdf (8 pages, 414438 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
