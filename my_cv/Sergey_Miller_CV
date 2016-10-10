@@ -1,0 +1,77 @@
+
+\documentclass[11pt,a4paper,sans]{moderncv}        %
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc} 
+\usepackage[scale=0.9]{geometry}
+
+
+% personal data
+\name{Sergey}{Miller}
+% \title{Resumé title}                               % optional, remove / comment the line if not wanted
+\address{Pervomayskaya street}{32-2-322 Dolgoprudnyy}{Russian Federation}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+7~(985)~749~27~15}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+% \phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{sergey.miller@phystech.edu}                               % optional, remove / comment the line if not wanted
+% \homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+% \extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+\photo[64pt][0pt]{mypic2}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+% \quote{Some quote}                                 % optional, 
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{Education}
+\cventry{2003--2014}{Student}{Lyceum $N\textsuperscript{\underline{o}}$ 36 with advanced study of physics and maths}{Irkutsk}{}{}
+\cventry{2014--now}{Bachelor of Mathematical and Computer Sciences}{Moscow Institute of Physics and Technology}{}{\textit{Department(Faculty) of Innovation and High Technology, Chair of Data Analysis}}{$\textbf{GPA: 4.94/5}$}  % arguments 3 to 6 can be left empty
+% \cventry{year--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}
+\section{Experience}
+\subsection{}
+\cventry{2015 february-may}{Assistant Mathematics Teacher}{Phystech-Lyceum}{Dolgoprudnyy}{}{Assistant of Seminar leader, Jury Member of math contests for pupils.}%
+\newline{}
+
+% \cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+\subsection{Miscellaneous}
+\cventry{2016--now}{Software Engineer}{Reward App.}{Moscow}{Software startup in  Projects Business School of National Research 
+Nuclear University 'MEPhI'}{}
+
+\section{Languages}
+\cvitemwithcomment{English}{Intermediate}{}
+\cvitemwithcomment{Russian}{Native}{}
+
+\section{Computer skills}
+\cvdoubleitem{Languages}{C++(Good), Python(Basic), Java(Basic)}{}{}
+% \cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
+% \cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+
+\section{Interests}
+\cvitem{Computer Science}{Algorithms and Data Structures, Machine Learning}
+\cvitem{Math}{Discrete mathematics, Statistics and Stochastic processes}
+\cvitem{Programming}{iOS Development, Competitive programming, $\href{https://github.com/sergmiller}{\color{blue} \mathrm{Github}}$}
+\cvitem{Other}{Footbal, Volleyball, Board games}
+
+\section{Achievments}
+\cvlistitem{Participant of Final tour of All-Russian Olympiad in Mathematics 2014}{}
+\cvlistitem{Coursera Course: Introduction to machine learning
+from Yandex and Higher School of Economics}{}
+\cvlistitem{80th(out of 800) place in Bubble Cup 9 - Finals(Codeforces Online Mirror) }{}
+\cvlistitem{150th(out of 400) place in ML Boot Camp Championship}{}
+
+\section{My Priorities}
+{My main priorities are solution of extraordinary problems and improving people's lives.
+During the internship, I would like to get the best experience in solving real-world problems, so I will be able to use this experience in the future.}
+
+\section{Personal Qualities}
+{High productivity of working, team work skills, creative approach towards problem solution.}
+
+\end{document}
+
+
+%% end of file `template.tex'.
