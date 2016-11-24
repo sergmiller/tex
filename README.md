@@ -1,1 +1,1 @@
-# my_tex
+Tex files for physics labs
