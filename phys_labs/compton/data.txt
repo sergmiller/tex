@@ -1,0 +1,3 @@
+angle channel counter time particles frequency
+0  892 621250 810  6444731 7956,5
+2  885 221302 306  2476937 8094,6
