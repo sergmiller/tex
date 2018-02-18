@@ -1,1 +1,1 @@
-My all tex files
+All my tex files
